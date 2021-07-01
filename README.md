@@ -1,4 +1,4 @@
-# ExoplayerExample.
+# Exoplayer Audio Example.
 
 A simple ExoPlayer2 audio example displaying how to play audio files.
 
